@@ -1,0 +1,12 @@
+@charset  "UTF-8";
+
+h1 {
+	font-family: Arial;
+	font-size:  30pt;
+	color: #0E0FB6;
+	text-shadow:  2px 2px 20px black;
+	text-indent: 30px
+}
+body {
+	background-color: lightblue;
+}
